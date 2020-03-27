@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">KATALOG MOVIE</string>
+
+    <string-array name="movie_title">
+        <item>A STAR</item>
+        <item>A QUAMAN</item>
+        <item>AVANGER INFINITY</item>
+        <item>BIRDBOX</item>
+        <item>BOHEIMAN</item>
+        <item>BUMBELBEE</item>
+        <item>CREED</item>
+        <item>DEADPOOL</item>
+        <item>DRAGON</item>
+        <item>THE GIRL</item>
+        <item>THE MULE</item>
+        <item>VENOM</item>
+    </string-array>
+    <string-array name="movie_rating">
+        <item>4.4 from 5</item>
+        <item>4.6 from 5</item>
+        <item>4.5 from 5</item>
+        <item>4.3 from 5</item>
+        <item>4.2 from 5</item>
+        <item>4.7 from 5</item>
+        <item>4.0 from 5</item>
+        <item>3.7 from 5</item>
+        <item>4.4 from 5</item>
+        <item>4.5 from 5</item>
+        <item>5.0 from 5</item>
+        <item>4.3 from 5</item>
+    </string-array>
+
+    <string-array name="movie_release_date">
+        <item>5/5/2019</item>
+        <item>4/5/2018</item>
+        <item>4/7/2016</item>
+        <item>4/1/2017</item>
+        <item>4/4/2015</item>
+        <item>4/5/2018</item>
+        <item>4/8/2018</item>
+        <item>4/5/2019</item>
+        <item>4/5/2019</item>
+        <item>4/7/2019</item>
+        <item>9/5/2019</item>
+        <item>7/1/2019</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>Jack yang merupakan seorang alkoholik kala itu baru saja menyelesaikan konser musiknya.
+            Diperjalanan pulang, ia meminta supirnya untuk menepi di sebuah bar karena ia kehabisan
+            minuman beralkohol di mobilnya. Kebetulan sekali di bar tempat ia minum, sedang
+            ada pertunjukkan live music di mana para penyanyinya berdandan layaknya drag queen.
+            Awalnya Jack tidak terlalu peduli dengan lingkungan sekitarnya, hingga akhirnya ada
+            seorang penyanyi yang suara dan penampilannya berhasil mencuri perhatian Jack</item>
+        <item>Salah satu karakter superhero DC akan mendapat porsi besar dalam film AQUAMAN yang
+            siap tayang di bioskop mulai tanggal 12 Desember 2018. Digadang-gadang sebagai film DC
+            terbaik setelah trilogi Batman, AQUAMAN akan menguak lebih dalam soal kehidupan sebenarnya
+            dari Arthur Curry.Dalam ceritanya, Arthur Curry yang diperankan oleh Jason Momoa adalah anak dari seorang penjaga
+            mercusuar dan dewi laut.Meski memiliki darah dari kehidupan kerajaan Atlantis, Arthur memilih
+            untuk hidup sebagai manusia biasa di daratan.
+            Sampai akhirnya, Arthur bertemu dengan salah satu penghuni bawah laut, Hera (Amber Heard)
+            yang mengatakan kalau umat manusia dalam bahaya karena ambisi saudara tiri Arthur</item>
+        <item>Thanos (Josh Brolin) berambisi untuk mengumpulkan enam batu abadi yang tersebar di berbagai
+            tempat. Setiap batu memiliki kekuatan tersendiri sehingga tidak sembarang orang bisa
+            mendapatkannya.
+            jika sudah memiliki keenam batu abadi, Thanos bisa menjadi penguasa semesta. Thanos pun
+            berniat menghilangkan separuh populasi semesta karena dipercaya bisa membuat kehidupan lebih sejahtera.
+            Thanos bersama anak buahnya menebar teror sambil mencari batu-batu tersebut. Kekejaman
+            Thanos disaksikan sendiri oleh Bruce Banner Hulk (Mark Ruffalo) dan Thor (Chris Hemsworth).
+            Mereka berniat menemukan superhero lain agar bisa mencegah ambisi Thanos.
+            Hulk kembali ke bumi dan memberi tahu aksi Thanos kepada Tony Stark Iron Man
+            (Robert Downey Jr.), Doctor Strange (Benedict Cumberbatch) serta Wong (Benedict Wong)</item>
+        <item>Menambah list deretan film post-apocalyptic, hadir film BIRD BOX yang menceritakan
+            tentang teror misterius kepada penduduk dunia yang mengakibatkan bunuh diri masal.
+            Setelah menyerang Siberia dan menyebar ke berbagai belahan Eropa, kejadian misterius itu
+            akhirnya menyerang warga Amerika.
+            Malorie Hayes (Sandra Bullock), seorang seniman yang tengah mengandung sedang memeriksakan
+            diri ke dokter bersama kakak perempuannya Jessica (Sarah Paulson). Dalam perjalanan pulang,
+            keduanya melihat terjadi kekacauan di luar hingga banyak orang melakukan bunuh diri. Di saat
+            yang sama, Jessica kemudian terlihat aneh hingga akhirnya bunuh diri di depan mata Malorie.</item>
+        <item>Pecinta musik pastinya sudah tak asing lagi dengan lagu Bohemian Rhapsody. Yap lagu itu
+            dipopulerkan oleh band asal Inggris, Queen, pada tahun 1975. Film BOHEMIAN RHAPSODY sendiri
+            berkisah tentang frontman alias vokalis dari band legendaris tersebut Freddie Mercury yang
+            kali ini diperankan oleh Rami Malek.
+            Film ini digarap oleh sutradara Bryan Singer. Kita bukan hanya akan melihat tentang betapa
+            wah-nya Freddy Mercury dalam dunia musik, tapi juga diajak untuk melihat awal kehidupan
+            Freddy yang punya nama asli Farrokh Bulsara.
+            Buat pecinta Queen, tentu saja film ini harus ditonton, karena banyak lagu top dari band
+            ini yang akan dihadirkan. Bukan cuma Bohemian Rhapsody saja pastinya</item>
+        <item>Pecinta film seri TRANSFORMERS pastinya nggak boleh melewatkan BUMBLEBEE. Film tentang
+            Autobot kuning muda yang punya nama asli B-127 dari planet Cybertron ini menceritakan
+            tentang pertama kali dia ke bumi untuk melaksanakan sebuah misi yang diberikan oleh pemimpinnya,
+            Optimus Prime.
+            B-127 tiba di bumi tahun 1987 dan terdampar di California saat Sector 7 (badan rahasia pemerintah
+            Amerika Serikat yang memantau aktivitas di luar angkasa) sedang melakukan pelatihan. Sector 7
+            menganggap B-127 sebagai musuh dan membawanya ke hutan.
+            Saat menuju hutan, Blitzwing, bagian dari Decepticons (musuh Autobots) menghentikan mereka
+            dan melawan B-127. Si kuning menolak memberitahukan keberadaan Optimus Prime. Blitzwing lalu
+            merusak voicebox dan bagian memori dari B-127</item>
+        <item>Creed 2 menceritakan pertarungan keren dari Adonis Creed yang membuatnya menjadi juara tinju
+            dunia. Hidupnya pun sangat sempurna karena tak hanya memiliki gelar, ia akhirnya bisa menikah
+            dengan wanita pujaannya Bianca.
+            Alur cerita film Creed 2 mudah diikuti meski belum menonton film pertama Creed. Karakter penting
+            dalam film ini akan diceritakan secara gamblang sehingga penonton semakin mudah mencerna isi
+            cerita Creed 2.Ada yang menarik dari film ini karena masa lalu dari Adonis Creed dan Rocky Balboa
+            akan muncul kembali. Mereka kembali dihadapkan dengan Ivan Drago (Dolph Lundgren) seorang petinju
+            yang dulu menewaskan ayah Adonis Creed.</item>
+        <item>DEADPOOL 2 adalah salah satu film yang ditunggu-tunggu pekan ini oleh moviegoers Indonesia.
+            Setelah sukses dengan film pertama di tahun 2016, Ryan Reynolds akhirnya kembali dengan perannya
+            yang fenomenal Wade Wilson alias Deadpool yang kocak tapi juga hot dan pastinya bisa diandalkan.
+            Kalau di film pertama kita melihat proses bagaimana Wade Wilson menjadi Deadpool dan perjuangannya
+            demi cintanya, kini kita bisa melihat aksinya dalam menyelamatkan mutan lainnya di sekuel ini.
+            DEADPOOL 2 memiliki kisah inti yaitu Deadpool berusaha untuk melindungi mutan muda misterius
+            bernama Russel (Julian Dennisson). Russel diincar oleh seorang tentara yang bisa time
+            traveling bernama Cable (Josh Brolin). Untuk mencapai misinya ini Deadpool pun membentuk
+            tim yang lalu diberi nama X-Force.</item>
+        <item>Franchise ketiga dari HOW TO TRAIN YOUR DRAGON sebentar lagi sudah bisa dinikmati oleh
+            para pecinta film animasi di Indonesia. Berbeda dari dua film sebelumnya, HOW TO TRAIN YOUR
+            DRAGON 3 akan diberi sub judul THE HIDDEN WORLD.
+            Nggak salah lagi, sesuai dengan judulnya, film ini akan kembali mengisahkan petualangan
+            Hiccup (Jay Baruchel) dan naga imut miliknya Night Furry dalam mencari dunia rahasia yang
+            selama ini dianggap mitos</item>
+        <item>Film horor thriller asal Amerika yang dibintangi Abigail Breslin ini akan kembali tayang di
+            Bioskop TransTV, Jumat (18-10-2019) pukul 23.00 WIB.Selain Abigail Breslin, film ini juga turut
+            dibintangi oleh Wes Bentley, Logan Huffman, Cameron Bright dan Alexander Ludwig.Final Girl tayang
+            perdana di Bioskop Amerika pada 14 Agustus 2015.Film besutan sutradara Tyler Shields ini naskahnya
+            ditulis oleh Adam Prince.Berdurasi 90 menit, Final Girl berkisah tentang terbongkarnya pembunuhan
+            misterius oleh seorang wanita muda</item>
+        <item>Bagi kalian pecinta film bergenre crime dan thriller, THE MULE hadir dengan ketegangan dan plot
+            cerita yang menarik. Film ini diperankan oleh aktor gaek Clint Eastwood, Bradley Cooper, Laurence
+            Fishburne, dan Dianne Wiest. Clint kembali duduk di kursi sutradara serta menjadi bintang utamanya.
+            Hal tersebut pernah dilakukannya dalam MILLIOR DOLLAR BABY.Karya-karya Eastwood selalu mengedepankan
+            drama yang humanis, bagaimana dengan yang satu ini? THE MULE berkisah tentang Earl Stone (Clint Eastwood),
+            seorang ahli hortikultura dan veteran perang Korea berusia 90 tahun. Keluarga Earl Stone bukan keluarga
+            yang harmonis. Keluarganya retak, utamanya relasi antara Earl dengan anak perempuannya, Iris
+            (Alison Eastwood).Dengan kehidupannya yang berantakan, sendirian dan menghadapi kebangkrutan mendorongnya,
+            Earl berusaha menghasilkan uang dengan mudah</item>
+        <item>Buat para penggemar komik Marvel atau film superhero, pastinya sudah tak asing dengan sosok Venom.
+            Dia pun pernah muncul di film SPIDER-MAN 3 sebagai musuh dari Peter Parker. Kini sosok Venom yang
+            aslinya seorang anti-hero ini dapat film sendiri lho dan dibintangi oleh Tom Hardy bersama dengan
+            Michelle Williams, Riz Ahmed dan lainnya</item>
+
+    </string-array>
+
+    <array name="movie_cover">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+</resources>
